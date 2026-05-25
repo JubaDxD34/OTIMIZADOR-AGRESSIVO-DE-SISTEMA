@@ -215,25 +215,9 @@ chkdsk C: /f
 
 ---
 
-# 💡 Sobre o Projeto
-
-Esse projeto surgiu pela necessidade de agilizar manutenções em computadores antigos que chegam diariamente para limpeza, reparo e otimização.
-
-Existem diversos programas de otimização muito bons na internet, porém muitos possuem:
-- Funções espalhadas em vários menus
-- Configurações escondidas
-- Ferramentas excessivas para tarefas simples
-- Processos demorados para encontrar o necessário
-
-Então a ideia do **OTIMIZADOR JUBA** foi reunir em um único script os comandos que realmente ajudam no dia a dia técnico.
-
-O foco do projeto não é prometer milagres ou ganhos irreais de desempenho, mas automatizar procedimentos que ajudam computadores antigos a ficarem mais leves, estáveis e utilizáveis novamente.
-
----
-
 # ⚠️ Aviso
 
-Este script realiza alterações importantes no sistema operacional.
+Este script realiza alterações "importantes" no sistema operacional...
 
 ## 🔴 Recomendações
 - Executar como Administrador
